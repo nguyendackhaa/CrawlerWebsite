@@ -75,3 +75,4 @@ python run.py
 - Tốc độ thu thập phụ thuộc vào số lượng sản phẩm và tốc độ mạng
 - Nên sử dụng VPN hoặc proxy nếu thu thập một lượng lớn dữ liệu để tránh bị chặn
 - Một số website có biện pháp chống thu thập dữ liệu tự động, hiệu quả có thể bị hạn chế
+- LH : 0355108736 để biết thêm chi tiết
